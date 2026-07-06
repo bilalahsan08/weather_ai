@@ -24,15 +24,5 @@ A beautiful, modern, and intelligent weather application built with Flutter. It 
   - `lottie` (Animations)
   - `flutter_animate` (Micro-interactions and UI animations)
 
-## 📱 Screenshots
-*(Add screenshots of your beautiful UI here! Consider taking a screenshot of the Sunny state, the Rainy state, and the AI suggestion card on your phone and dragging them right here into the GitHub editor!)*
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (`>=3.10.7`)
-- An API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
-- An API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
-
 
 *If you liked this project, please consider giving it a ⭐ on GitHub!*
