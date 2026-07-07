@@ -18,8 +18,6 @@ A beautiful, modern, and intelligent weather application built with Flutter. It 
   - `http` (Network Requests)
   - `lottie` (Animations)
   - `flutter_animate` (Micro-interactions and UI animations)
-## 📱 Screenshots
-*(Add screenshots of your beautiful UI here! Consider taking a screenshot of the Sunny state, the Rainy state, and the AI suggestion card on your phone and dragging them right here into the GitHub editor!)*
 ## 🚀 Getting Started
 ### Prerequisites
 - Flutter SDK (`>=3.10.7`)
@@ -76,6 +74,6 @@ lib/
 ## 👨‍💻 Author
 **Bilal Ahsan**
 - GitHub: [@bilalahsan08](https://github.com/bilalahsan08)
-- LinkedIn: *(Add your LinkedIn link here)*
+- LinkedIn: *(https://www.linkedin.com/in/bilal-ahsan-2a97b5299/)*
 ---
 *If you liked this project, please consider giving it a ⭐ on GitHub!*
