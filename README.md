@@ -16,16 +16,6 @@ real-time weather data.
 
 ---
 
-## 📸 Screenshots
-
-| Search | Sunny | Rainy | Night |
-|---|---|---|---|
-| ![Search]() | ![Sunny]() | ![Rainy]() | ![Night]() |
-
-> Add your screenshots inside the brackets above
-
----
-
 ## 🛠️ Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
